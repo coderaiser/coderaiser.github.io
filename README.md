@@ -11,4 +11,4 @@ Projects
 
 [![Flattr][FlattrIMGURL]][FlattrURL]
 [FlattrIMGURL]:             http://api.flattr.com/button/flattr-badge-large.png
-[FlattrURL]:                https://flattr.com/submit/auto?user_id=coderaiser&url=github.com/coderaiser/cloudcmd&title=cloudcmd&language=&tags=github&category=software
+[FlattrURL]:                https://flattr.com/submit/auto?user_id=coderaiser&url=github.com/coderaiser/coderaiser.github.io&title=cloudcmd&language=&tags=github&category=software
