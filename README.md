@@ -9,6 +9,8 @@ Projects
 - [VK Get-Track-Links] (http://jsfiddle.net/coderaiser/jdUSY/embedded/result/) - get links to tracks in vk profile.
 - [Nemizida](http://nemizida.cloudfoundry.com) - x86 operation system.
 
-[![Flattr][FlattrIMGURL]][FlattrURL]
+[![Flattr][FlattrIMGURL]][FlattrURL][![DropBox][DropBoxIMGURL]][DropBoxURL]
 [FlattrIMGURL]:             http://api.flattr.com/button/flattr-badge-large.png
 [FlattrURL]:                https://flattr.com/submit/auto?user_id=coderaiser&url=github.com/coderaiser/coderaiser.github.io&title=coderaiser.github.io&language=&tags=github&category=everything
+[DropBoxIMGURL]:            https://dt8kf6553cww8.cloudfront.net/static/images/favicon-vflonlsct.ico
+[DropBoxURL]:               http://db.tt/CaAl1f3D
