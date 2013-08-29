@@ -27,4 +27,4 @@ Donates
 [DropBoxIMGURL]:            https://dt8kf6553cww8.cloudfront.net/static/images/favicon-vflonlsct.ico
 [DropBoxURL]:               http://db.tt/CaAl1f3D "DropBox"
 [CodeSchoolIMGURL]:         https://d1tijy5l7mg5kk.cloudfront.net/assets/favicon-31349d64c73974d0dc803ea68eb13452.ico
-[CodeSchoolURL]:            http://go.codeschool.com/Ri6h8w "CodeSchool"
+[CodeSchoolURL]:            http://go.codeschool.com/cJM0eQ "CodeSchool"
