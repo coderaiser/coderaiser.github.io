@@ -18,13 +18,17 @@ Report cards
 
 Donates
 =====================
-[![Flattr][FlattrIMGURL]][FlattrURL]
-[![DropBox][DropBoxIMGURL]][DropBoxURL]
-[![CodeSchool][CodeSchoolIMGURL]][CodeSchoolURL]
+[![Flattr][FlattrIMG]][FlattrURL]
+[![DropBox][DropBoxIMG]][DropBoxURL]
+[![CodeSchool][CodeSchoolIMG]][CodeSchoolURL]
+[![Koding][KodingIMG]][KodingURL]
 
-[FlattrIMGURL]:             http://api.flattr.com/button/flattr-badge-large.png
+[FlattrIMG]:                http://api.flattr.com/button/flattr-badge-large.png
+[DropBoxIMG]:               https://dt8kf6553cww8.cloudfront.net/static/images/favicon-vflonlsct.ico
+[CodeSchoolIMG]:            https://d1tijy5l7mg5kk.cloudfront.net/assets/favicon-31349d64c73974d0dc803ea68eb13452.ico
+[KodingIMG]:                https://koding.com/images/favicon.ico
+
 [FlattrURL]:                https://flattr.com/submit/auto?user_id=coderaiser&url=github.com/coderaiser/coderaiser.github.io&title=coderaiser.github.io&language=&tags=github&category=everything "Flattr"
-[DropBoxIMGURL]:            https://dt8kf6553cww8.cloudfront.net/static/images/favicon-vflonlsct.ico
 [DropBoxURL]:               http://db.tt/CaAl1f3D "DropBox"
-[CodeSchoolIMGURL]:         https://d1tijy5l7mg5kk.cloudfront.net/assets/favicon-31349d64c73974d0dc803ea68eb13452.ico
 [CodeSchoolURL]:            http://go.codeschool.com/cJM0eQ "CodeSchool"
+[KodingURL]:                https://koding.com/?r=cloudcmd
