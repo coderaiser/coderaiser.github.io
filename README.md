@@ -7,7 +7,7 @@ Projects
 - [VKSave]              (http://coderaiser.github.io/vksave "VKSave") - music downloader for vk.com.
 - [Image Resizer]       (http://jsfiddle.net/coderaiser/CVZvG/embedded/result/) - easy image resizer.
 - [VK Get-Track-Links]  (http://jsfiddle.net/coderaiser/jdUSY/embedded/result/) - get links to tracks in vk profile.
-- [Nemizida]            (http://nemizida.cloudfoundry.com) - x86 operation system.
+- [Nemizida]            (http://coderaiser.github.io/nemizida "Nemizida") - x86 operation system.
 
 Report cards
 =====================
