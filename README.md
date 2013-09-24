@@ -1,7 +1,7 @@
 Projects
 =====================
 
-- [Cloud Commander]     (http://coderaiser.github.io/cloudcmd "Cloud Commander") - userfriendly cloud file manager.
+- [Cloud Commander]     (http://cloudcmd.io "Cloud Commander") - userfriendly cloud file manager.
 - [Minify]              (http://coderaiser.github.io/minify "Minify") - js, css, html and img minifier.
 - [VKCrypt]             (http://coderaiser.github.io/vkcrypt "VKCrypt") - crypt tool for vk.com.
 - [VKSave]              (http://coderaiser.github.io/vksave "VKSave") - music downloader for vk.com.
