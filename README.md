@@ -18,6 +18,9 @@ Report cards
 
 Donates
 =====================
+You could register on one of this services, it would be good donation 
+if you will use it, because of referal programs.
+
 [![Flattr][FlattrIMG]][FlattrURL]
 [![DropBox][DropBoxIMG]][DropBoxURL]
 [![CodeSchool][CodeSchoolIMG]][CodeSchoolURL]
