@@ -8,6 +8,7 @@ Projects
 - [Image Resizer]       (http://jsfiddle.net/coderaiser/CVZvG/embedded/result/) - easy image resizer.
 - [VK Get-Track-Links]  (http://jsfiddle.net/coderaiser/jdUSY/embedded/result/) - get links to tracks in vk profile.
 - [Nemizida]            (http://coderaiser.github.io/nemizida "Nemizida") - x86 operation system.
+- [The Cat]             (http://coderaiser.github.io/thecat "The Cat") - Simple cat server. Get new cat on every request.
 
 Report cards
 =====================
