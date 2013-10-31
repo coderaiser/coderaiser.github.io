@@ -38,4 +38,4 @@ if you will use it, because of referal programs.
 [DropBoxURL]:               http://db.tt/CaAl1f3D "DropBox"
 [CodeSchoolURL]:            http://go.codeschool.com/cJM0eQ "CodeSchool"
 [KodingURL]:                https://koding.com/?r=cloudcmd "Koding"
-[DigitalOceanURL]:          https://www.digitalocean.com/?refcode=78b0b6dd4c98 "Digital Ocean"
+[DigitalOceanURL]:          https://www.digitalocean.com/?refcode=62d3c198dbe0 "Digital Ocean"
