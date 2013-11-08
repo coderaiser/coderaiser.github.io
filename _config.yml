@@ -1,0 +1,14 @@
+markdown        : redcarpet
+name            : Coderaiser
+title           : Coderaiser
+tagLine         : Coderaiser projects
+viewOn          : View Project on
+download        : Download
+maintainedBy    : This project is maintained by
+yandex          : 48e59eacd66f1bbd
+ga              : UA-33536569-5
+canonical       : coderaiser.github.io
+repoName        : coderaiser/cloudcmd/edit/dev/HELP.md
+improveText     : "Find typo? Help fix it."
+repoSource      : coderaiser/coderaiser.github.io
+image           : https://secure.gravatar.com/avatar/01401eef43a0a650029f6a871752e905?size=400px
