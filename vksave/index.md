@@ -1,5 +1,5 @@
 ---
-layout: default
+layout          : default
 title           : VKSave
 tagLine         : music downloader for vk.com
 repoName        : coderaiser/vksave/edit/master/HELP.md
