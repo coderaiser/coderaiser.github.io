@@ -8,8 +8,6 @@ repoSource      : coderaiser/menu-io
 
 Menu [![Build Status][BuildStatusIMGURL]][BuildStatusURL]
 ====
-Menu [![Build Status][BuildStatusIMGURL]][BuildStatusURL]
-====
 [BuildStatusURL]:           https://travis-ci.org/coderaiser/menu-io  "Build Status"
 [BuildStatusIMGURL]:        https://api.travis-ci.org/coderaiser/menu-io.png?branch=gh-pages
 
