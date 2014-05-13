@@ -33,6 +33,7 @@ Create `html` page with `js` and `css` connected.
 ```
 
 Add little JavaScript:
+
 ```js
 var menu        = MenuIO({
     'item name': function onItemNameClick() {
