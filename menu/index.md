@@ -1,5 +1,9 @@
 ---
 layout: default
+name            : Menu
+title           : Simple css-based multillevel context menu
+repoName        : coderaiser/menu/edit/gh-pages/HELP.md
+repoSource      : coderaiser/menu
 ---
 
 Menu [![Build Status][BuildStatusIMGURL]][BuildStatusURL]
