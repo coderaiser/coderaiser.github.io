@@ -135,7 +135,7 @@ Util.exec.parallel([func1, func2], function(str1, str2) {
 });
 ```
 
-### loadOnLoad
+### exec.series
 executes functions one-by-one
 
 ```js
