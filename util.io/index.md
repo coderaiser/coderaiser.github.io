@@ -89,6 +89,7 @@ After:
 if a you need a couple async operation do same work, and then call callback, this function for you.
 
 **Node.js example**.
+
 ```js
 var fs = require('fs');
 
@@ -115,6 +116,7 @@ Util.exec.parallel([
 });
 ```
 **Vanilla js example.**
+
 ```js
 var ONE_SECOND  = 1000,
     TWO_SECONDS = 2000,
