@@ -27,30 +27,6 @@ For browser:
 
 ## Api
 
-### bind
-
-Same as `Function.prototype.bind`, but for functions not methods
-
-Before:
-
-```js
-function showMessage(msg) {
-    console.log(msg);
-}
-
-setTimeout(showMessage.bind(null, 'hello', 0));
-```
-
-After:
-
-```js
-function showMessage(msg) {
-    console.log(msg);
-}
-
-setTimeout(Util.bind(showMessage, 'hello'), 0);
-```
-
 ### exec
 Check is parameter is function, if it's - executes it with given parameters
 
@@ -211,7 +187,7 @@ var sum = function(x, y) {
 };
 
 msg = Util.render('x = {{ result }}', {
-    result: Util.bind(sum, 5, 3)
+    result: sum.bind(null, 5, 3)
 });
 
 console.log(msg);
