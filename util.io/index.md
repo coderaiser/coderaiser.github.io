@@ -15,10 +15,12 @@ Util.io - utilites for vanila js. Consist of nice set of functions that works in
 
 ## Install
 For node:
+
 ```
 npm i util.io
 ```
 For browser:
+
 ```html
 <script src="lib/util.js"
 ```
@@ -29,6 +31,7 @@ For browser:
 Check is parameter is function, if it's - executes it with given parameters
 
 Was:
+
 ```js
 function(callback, p1, p2, pN) {
     if (typeof callback === 'function')
@@ -37,12 +40,15 @@ function(callback, p1, p2, pN) {
 ```
 
 Now
+
 ```js
 function(callback, p1, p2, pN) {
     Util.exec(callback, p1, p2, pN);
 }
 ```
+
 or just
+
 ```js
     Util.retExec(callback, p1, p2, pN);
 ```
@@ -51,27 +57,30 @@ or just
 Conditional execution one of two functions
 
 Preconditions:
+
 ```js
-    function one() {
-        console.log(1);
-    }
-    
-    function two(callback) {
-        setTimeout(callback, 1000);
-    }
+function one() {
+    console.log(1);
+}
+
+function two(callback) {
+    setTimeout(callback, 1000);
+}
 ```
 
 
 Before:
+
 ```js
-    if (2 > 3)
-        one();
-    else
-        two(one);
+if (2 > 3)
+    one();
+else
+    two(one);
     
 ```
 
 After:
+
 ```js
     exec.if(2 > 3, one, two);
 ```
