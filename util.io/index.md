@@ -139,55 +139,55 @@ Util.exec.parallel([func1, func2], function(str1, str2) {
 executes functions one-by-one
 
 ```js
-    function one(callback){
-        setTimeout(function() {
-            console.log(1)
-            callback();
-        }, 1000);
-    }
-
-    function two(callback) {
-        console.log(2);
+function one(callback){
+    setTimeout(function() {
+        console.log(1)
         callback();
-    }
+    }, 1000);
+}
 
-    Util.exec.series([one, two]);
+function two(callback) {
+    console.log(2);
+    callback();
+}
+
+Util.exec.series([one, two]);
 ```
 
 ### render
 simple template engine
 
 ```js
-    var msg = Util.render('hello {{ word }}', {
-        word: 'world'
-    });
-    
-    console.log(msg);
-    // hello world
+var msg = Util.render('hello {{ word }}', {
+    word: 'world'
+});
+
+console.log(msg);
+// hello world
 ```
 
 ```js
-    /* template engine could be any you want */
-    var msg;
-    msg = Util.ownRender('hello <%word%>', { word: 'world' }, ['<%', '%>']);
-    console.log(msg);
-    // hello world
-    
-    /* if you want spaces */
-    var notEscape = true;
-    msg = Util.ownRender('hello <% word %>', { word: 'world' }, ['\\s*<%', '\\s*%>'], notEscape);
-    console.log(msg);
-    // hello world
-    
-    /* if you want functions */
-    var sum = function(x, y) {
-        return x + y
-    };
-    
-    msg = Util.render('x = {{ result }}', {
-        result: sum.bind(null, 5, 3)
-    });
-    
-    console.log(msg);
-    // x = 8
+/* template engine could be any you want */
+var msg;
+msg = Util.ownRender('hello <%word%>', { word: 'world' }, ['<%', '%>']);
+console.log(msg);
+// hello world
+
+/* if you want spaces */
+var notEscape = true;
+msg = Util.ownRender('hello <% word %>', { word: 'world' }, ['\\s*<%', '\\s*%>'], notEscape);
+console.log(msg);
+// hello world
+
+/* if you want functions */
+var sum = function(x, y) {
+    return x + y
+};
+
+msg = Util.render('x = {{ result }}', {
+    result: sum.bind(null, 5, 3)
+});
+
+console.log(msg);
+// x = 8
 ```
