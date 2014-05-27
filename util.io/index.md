@@ -1,5 +1,9 @@
 ---
-layout: default
+layout          : default
+title           : Util.io
+tagLine         : Utilites for vanila js
+repoName        : coderaiser/utio.io/edit/master/HELP.md
+repoSource      : coderaiser/utio.io
 ---
 
 # Util.io [![NPM version][NPMIMGURL]][NPMURL]
