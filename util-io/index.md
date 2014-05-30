@@ -1,9 +1,9 @@
 ---
 layout          : default
-title           : Util.io
+title           : Util-io
 tagLine         : Utilites for vanila js
-repoName        : coderaiser/utio.io/edit/master/HELP.md
-repoSource      : coderaiser/utio.io
+repoName        : coderaiser/utio-io/edit/master/HELP.md
+repoSource      : coderaiser/utio-io
 ---
 
 # Util.io [![NPM version][NPMIMGURL]][NPMURL]
@@ -11,7 +11,7 @@ repoSource      : coderaiser/utio.io
 [NPM_INFO_IMG]:             https://nodei.co/npm/util.io.png?downloads=true&&stars
 [NPMURL]:                   https://npmjs.org/package/util.io "npm"
 
-Util.io - utilites for vanila js. Consist of nice set of functions that works in node and browser.
+Util-io - utilites for vanila js. Consist of nice set of functions that works in node and browser.
 
 ## Install
 For node:
