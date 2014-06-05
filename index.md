@@ -15,7 +15,7 @@ Projects
 - [VK Get-Track-Links]  (http://jsfiddle.net/coderaiser/jdUSY/embedded/result/) - get links to tracks in vk profile.
 - [Nemizida]            (http://coderaiser.github.io/nemizida "Nemizida") - x86 operation system.
 - [The Cat]             (http://coderaiser.github.io/thecat "The Cat") - Simple cat server. Get new cat on every request.
-- [Status OK]           (http://coderaiser.github.io/status-ok "Status OK") - Check host status.
+- [Status IO]           (http://coderaiser.github.io/status-io "Status IO") - Check host status.
 
 Report cards
 =====================
