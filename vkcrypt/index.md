@@ -1,6 +1,6 @@
 ---
 layout          : default
-title           : VKCrypt
+name            : VKCrypt
 tagLine         : Crypt messages in vk.com with AES
 repoName        : coderaiser/vkcrypt/edit/master/HELP.md
 repoSource      : coderaiser/vkcrypt
