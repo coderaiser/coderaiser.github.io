@@ -1,6 +1,6 @@
 ---
 layout          : default
-title           : Util-io
+name            : Util-io
 tagLine         : Utilites for vanila js
 repoName        : coderaiser/util-io/edit/master/HELP.md
 repoSource      : coderaiser/util-io
