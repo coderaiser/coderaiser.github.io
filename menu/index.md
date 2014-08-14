@@ -1,6 +1,6 @@
 ---
 layout: default
-name            : Menu
+nameShort       : Menu
 tagLine         : Simple css-based multillevel context menu
 repoName        : coderaiser/menu-io/edit/gh-pages/HELP.md
 repoSource      : coderaiser/menu-io
