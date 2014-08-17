@@ -37,7 +37,7 @@ if you will use it, because of referal programs.
 
 [FlattrIMG]:                http://api.flattr.com/button/flattr-badge-large.png
 [DropBoxIMG]:               https://dt8kf6553cww8.cloudfront.net/static/images/favicon-vflonlsct.ico
-[CodeSchoolIMG]:            https://d1tijy5l7mg5kk.cloudfront.net/assets/favicon-31349d64c73974d0dc803ea68eb13452.ico
+[CodeSchoolIMG]:            https://d1tijy5l7mg5kk.cloudfront.net/assets/favicon-3f245cf247f9da1326322f212c85bd31.ico
 [KodingIMG]:                https://koding.com/a/images/favicon.ico
 [DigitalOceanIMG]:          https://www.digitalocean.com/favicon.ico
 
