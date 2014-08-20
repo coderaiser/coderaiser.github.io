@@ -50,7 +50,7 @@ function(callback, p1, p2, pN) {
 or just
 
 ```js
-    Util.retExec(callback, p1, p2, pN);
+    Util.exec.ret(callback, p1, p2, pN);
 ```
 
 ### exec.if
