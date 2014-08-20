@@ -95,24 +95,16 @@ var fs = require('fs');
 
 Util.exec.parallel([
     function(callback) {
-        fs.readFile('file1', function(error, data) {
-            callback(error, data);
-        });
+        fs.readFile('file1', callback);
     },
     function(callback) {
-        fs.readFile('file2',  function(error, data) {
-            callback(error, data);
-        });
+        fs.readFile('file2',  callback);
     }
-], function(file1, file2) {
-    var error1  = file1[0],
-        data1   = file1[1]
-        
-        error2  = file1[0]
-        data2   = file2[1];
-    
-    console.log(error1 || data1);
-    console.log(error2 || data2);
+], function(error, data1, data2) {
+    if (error)
+        console.log(error)
+    else
+        console.log(data1, data2);
 });
 ```
 **Vanilla js example.**
@@ -123,14 +115,14 @@ var ONE_SECOND  = 1000,
     func        = function(time, str, callback) {
         setTimeout(function() {
             console.log(str);
-            callback();
+            callback(null, str);
         }, time);
     },
     
     func1       = func.bind(null, TWO_SECONDS, 'first'),
     func2       = func.bind(null, ONE_SECOND, 'second');
 
-Util.exec.parallel([func1, func2], function(str1, str2) {
+Util.exec.parallel([func1, func2], function(error, str1, str2) {
     console.log(str1, str2);
 });
 ```
