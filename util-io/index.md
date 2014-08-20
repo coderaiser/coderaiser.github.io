@@ -91,7 +91,8 @@ if a you need a couple async operation do same work, and then call callback, thi
 **Node.js example**.
 
 ```js
-var fs = require('fs');
+var fs      = require('fs'),
+    Util    = require('util-io');
 
 Util.exec.parallel([
     function(callback) {
