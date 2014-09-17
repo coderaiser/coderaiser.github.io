@@ -11,7 +11,7 @@ Projects
 - [Minify]              (http://coderaiser.github.io/minify "Minify") - js, css, html and img minifier.
 - [VKCrypt]             (http://coderaiser.github.io/vkcrypt "VKCrypt") - crypt tool for vk.com.
 - [VKSave]              (http://coderaiser.github.io/vksave "VKSave") - music downloader for vk.com.
-- [Image Resizer]       (http://coderaiser.github.io/image-resizer/) - easy image resizer.
+- [Image Resizer]       (http://coderaiser.github.io/image-resizer/) - simple image resizer.
 - [VK Get-Track-Links]  (http://jsfiddle.net/coderaiser/jdUSY/embedded/result/) - get links to tracks in vk profile.
 - [Nemizida]            (http://coderaiser.github.io/nemizida "Nemizida") - x86 operation system.
 - [The Cat]             (http://coderaiser.github.io/thecat "The Cat") - Simple cat server. Get new cat on every request.
