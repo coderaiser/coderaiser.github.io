@@ -37,12 +37,10 @@ if you will use it, because of referal programs.
 
 [FlattrIMG]:                http://api.flattr.com/button/flattr-badge-large.png
 [DropBoxIMG]:               https://dt8kf6553cww8.cloudfront.net/static/images/favicon-vflonlsct.ico
-[CodeSchoolIMG]:            https://d1tijy5l7mg5kk.cloudfront.net/assets/favicon-3f245cf247f9da1326322f212c85bd31.ico
 [KodingIMG]:                https://koding.com/a/images/favicon.ico
 [DigitalOceanIMG]:          https://www.digitalocean.com/favicon.ico
 
 [FlattrURL]:                https://flattr.com/submit/auto?user_id=coderaiser&url=github.com/coderaiser/coderaiser.github.io&title=coderaiser.github.io&language=&tags=github&category=everything "Flattr"
 [DropBoxURL]:               http://db.tt/CaAl1f3D "DropBox"
-[CodeSchoolURL]:            http://go.codeschool.com/cJM0eQ "CodeSchool"
 [KodingURL]:                https://koding.com/R/cloudcmd "Koding"
 [DigitalOceanURL]:          https://www.digitalocean.com/?refcode=331c4947c5df "Digital Ocean"
