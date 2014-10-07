@@ -31,7 +31,6 @@ if you will use it, because of referal programs.
 
 [![Flattr][FlattrIMG]][FlattrURL]
 [![DropBox][DropBoxIMG]][DropBoxURL]
-[![CodeSchool][CodeSchoolIMG]][CodeSchoolURL]
 [![Koding][KodingIMG]][KodingURL]
 [![DigitalOcean][DigitalOceanIMG]][DigitalOceanURL]
 
