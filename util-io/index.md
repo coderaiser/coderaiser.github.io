@@ -50,7 +50,7 @@ function(callback, p1, p2, pN) {
 or just
 
 ```js
-    Util.exec.ret(callback, p1, p2, pN);
+Util.exec.ret(callback, p1, p2, pN);
 ```
 
 ### exec.if
@@ -82,7 +82,7 @@ else
 After:
 
 ```js
-    exec.if(2 > 3, one, two);
+exec.if(2 > 3, one, two);
 ```
 
 ### exec.parallel
