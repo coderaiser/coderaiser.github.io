@@ -13,7 +13,7 @@ Projects
 - [VKSave]              (http://coderaiser.github.io/vksave "VKSave") - music downloader for vk.com.
 - [Image Resizer]       (http://coderaiser.github.io/image-resizer/) - simple image resizer.
 - [VK Get-Track-Links]  (http://jsfiddle.net/coderaiser/jdUSY/embedded/result/) - get links to tracks in vk profile.
-- [Nemizida]            (http://coderaiser.github.io/nemizida "Nemizida") - x86 operation system.
+- [Nemesis]             (http://coderaiser.github.io/nemesis "Nemesis") - x86 operation system.
 - [The Cat]             (http://coderaiser.github.io/thecat "The Cat") - Simple cat server. Get new cat on every request.
 - [Status IO]           (http://coderaiser.github.io/status-io "Status IO") - Check host status.
 
