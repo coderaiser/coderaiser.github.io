@@ -35,7 +35,7 @@ if you will use it, because of referal programs.
 [![DigitalOcean][DigitalOceanIMG]][DigitalOceanURL]
 
 [FlattrIMG]:                http://api.flattr.com/button/flattr-badge-large.png
-[DropBoxIMG]:               https://dt8kf6553cww8.cloudfront.net/static/images/favicon-vflonlsct.ico
+[DropBoxIMG]:               https://cf.dropboxstatic.com/static/images/favicon-vflk5FiAC.ico
 [KodingIMG]:                https://koding.com/a/images/favicon.ico
 [DigitalOceanIMG]:          https://www.digitalocean.com/favicon.ico
 
