@@ -19,7 +19,6 @@ Projects
 
 Report cards
 =====================
-- [OSRC](http://osrc.dfm.io/coderaiser "Open Source Report Cards")
 - [Coderbits]           (https://coderbits.com/coderaiser)
 - [CodeSchool]          (https://codeschool.com/users/coderaiser)
 - [Codecademy]          (http://codecademy.com/en/coderaiser)
