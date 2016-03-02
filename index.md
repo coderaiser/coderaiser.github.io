@@ -41,4 +41,4 @@ if you will use it, because of referal programs.
 [FlattrURL]:                https://flattr.com/submit/auto?user_id=coderaiser&url=github.com/coderaiser/coderaiser.github.io&title=coderaiser.github.io&language=&tags=github&category=everything "Flattr"
 [DropBoxURL]:               http://db.tt/CaAl1f3D "DropBox"
 [KodingURL]:                https://koding.com/R/cloudcmd "Koding"
-[DigitalOceanURL]:          https://www.digitalocean.com/?refcode=331c4947c5df "Digital Ocean"
+[DigitalOceanURL]:          https://m.do.co/c/331c4947c5df "Digital Ocean"
