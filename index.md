@@ -33,12 +33,12 @@ if you will use it, because of referal programs.
 [![Koding][KodingIMG]][KodingURL]
 [![DigitalOcean][DigitalOceanIMG]][DigitalOceanURL]
 
-[FlattrIMG]:                http://api.flattr.com/button/flattr-badge-large.png
+[FlattrIMG]:                https://api.flattr.com/button/flattr-badge-large.png
 [DropBoxIMG]:               https://cf.dropboxstatic.com/static/images/favicon-vflk5FiAC.ico
 [KodingIMG]:                https://koding.com/a/images/favicon.ico
 [DigitalOceanIMG]:          https://www.filepicker.io/api/file/cIYC9tyqTGCgV2iqAx05/convert?w=32&h=32
 
 [FlattrURL]:                https://flattr.com/submit/auto?user_id=coderaiser&url=github.com/coderaiser/coderaiser.github.io&title=coderaiser.github.io&language=&tags=github&category=everything "Flattr"
-[DropBoxURL]:               http://db.tt/CaAl1f3D "DropBox"
+[DropBoxURL]:               https://db.tt/CaAl1f3D "DropBox"
 [KodingURL]:                https://koding.com/R/cloudcmd "Koding"
 [DigitalOceanURL]:          https://m.do.co/c/331c4947c5df "Digital Ocean"
