@@ -1,3 +1,4 @@
+markdown        : kramdown
 name            : Coderaiser
 title           : Coderaiser
 tagLine         : Coderaiser projects
