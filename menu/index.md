@@ -2,7 +2,7 @@
 layout: default
 nameShort       : Menu
 tagLine         : Simple css-based multillevel context menu
-repoName        : coderaiser/coderaiser.github.io/edit/gh-pages/menu/index.md
+repoName        : coderaiser/coderaiser.github.io/edit/master/menu/index.md
 repoSource      : coderaiser/menu-io
 ---
 
@@ -16,11 +16,11 @@ Simple css-based context menu made for [Cloud Commander](http://cloudcmd.io).
 Little bit better then other people do :).
 So to see at work look [here](http://jsfiddle.net/coderaiser/mAUUz/).
 
-#How come?
+# How come?
 
 Tired to use js based libraries which use jquery and `.hover` classes insteed of `:hover` pseudo-selectors.
 
-#Why should I care?
+# Why should I care?
 
 - `1.6kb` min & gzip for js.
 - `1kb` min & gzip  for css.
@@ -28,7 +28,7 @@ Tired to use js based libraries which use jquery and `.hover` classes insteed of
 - easy to use.
 - easy to extend.
 
-#How use?
+# How to use?
 Create `html` page with `js` and `css` connected.
 
 ```html
@@ -93,3 +93,6 @@ Look for `examples` directory or copy example from bottom:
     });
 </script>
 ```
+
+# License
+MIT
