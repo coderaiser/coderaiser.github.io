@@ -11,7 +11,6 @@ Projects
 - [Screens](http://screen.cloudcmd.io "Screens of file manager") - screenshorts of cloud file manager.
 - [Minify](http://coderaiser.github.io/minify "Minify") - js, css, html and img minifier.
 - [VKCrypt](http://coderaiser.github.io/vkcrypt "VKCrypt") - crypt tool for vk.com.
-- [VKSave](http://coderaiser.github.io/vksave "VKSave") - music downloader for vk.com.
 - [Image Resizer](http://coderaiser.github.io/image-resizer/) - simple image resizer.
 - [VK Get-Track-Links](http://jsfiddle.net/coderaiser/jdUSY/embedded/result/) - get links to tracks from vk profile.
 - [Nemesis](http://coderaiser.github.io/nemesis "Nemesis") - x86 operation system.
