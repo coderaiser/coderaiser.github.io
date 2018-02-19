@@ -19,9 +19,8 @@ Projects
 Report cards
 =====================
 
-- [Coderbits](https://coderbits.com/coderaiser)
-- [CodeSchool](https://codeschool.com/users/coderaiser)
-- [Codecademy](http://codecademy.com/en/coderaiser)
+- [CodeSchool]          (https://codeschool.com/users/coderaiser)
+- [Codecademy]          (http://codecademy.com/en/coderaiser)
 
 Donates
 =====================
