@@ -6,6 +6,7 @@ Projects
 =====================
 
 - [Cloud Commander](http://cloudcmd.io "Cloud Commander") - cloud file manager with console and editor.
+- [Putout](https://github.com/coderaiser/putout "Putout") - the pluggable code transformer.
 - [Wisdom](https://github.com/coderaiser/wisdom "Wisdom") - publish is simpler then ever.
 - [Screens](http://screen.cloudcmd.io "Screens of file manager") - screenshorts of cloud file manager.
 - [Minify](http://coderaiser.github.io/minify "Minify") - js, css, html and img minifier.
@@ -14,12 +15,6 @@ Projects
 - [Nemesis](http://coderaiser.github.io/nemesis "Nemesis") - x86 operation system.
 - [The Cat](http://coderaiser.github.io/thecat "The Cat") - Simple cat server. Get new cat on every request.
 - [Status IO](http://coderaiser.github.io/status-io "Status IO") - Check host status.
-
-Report cards
-=====================
-
-- [CodeSchool]          (https://codeschool.com/users/coderaiser)
-- [Codecademy]          (http://codecademy.com/en/coderaiser)
 
 Donates
 =====================
